@@ -1,2 +1,2 @@
 # Frontend-Projects
-Repository created to store my frontend projects.
+Repository created to store my frontend projects
